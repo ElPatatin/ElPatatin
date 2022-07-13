@@ -11,7 +11,7 @@
     <li><a href="#github-stats">Github stats</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
     <li><a href="#contact-me">Contact me 📥</a></li>
-    <li><a href="fin">Fin</a></li>
+    <li><a href="#fin">End of document</a></li>
   </ol>
 </details>
 
