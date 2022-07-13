@@ -4,11 +4,12 @@
 
 ## ▪️ I'm a student at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
 
-[![cpeset-c's 42 stats](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/stats?cursusId=21&coalitionId=205)](https://github.com/JaeSeoKim/badge42)]
+[![cpeset-c's 42 stats](https://badge42.vercel.app/api/v2/cl5jfm7f4019309l3bu9a6pd8/stats?cursusId=21&coalitionId=204)](https://github.com/JaeSeoKim/badge42)
 
 ## ▪️ See my 42cursus progress ↙️ 
 
 ◦ [42cursus progress](https://github.com/ElPatatin/42-Cursus_Public)
+◦ [42Piscine](https://github.com/ElPatatin/42_Piscine)
 
 ## ▪️ Github stats
 
