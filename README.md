@@ -4,7 +4,7 @@
 
 ## ▪️ I'm a student at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
 
-[![cpeset-c's 42 stats](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/stats?cursusId=21&coalitionId=205)](https://github.com/JaeSeoKim/badge42)
+[![cpeset-c's 42 stats](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/stats?cursusId=21&coalitionId=205)](https://github.com/JaeSeoKim/badge42)]
 
 ## ▪️ See my 42cursus progress ↙️ 
 
