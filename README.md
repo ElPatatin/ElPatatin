@@ -29,6 +29,14 @@ Descriptionn here
 
 ◦ [42Piscine](https://github.com/ElPatatin/42_Piscine)
 
+## Working on
+
+<p align="left">
+<a href="https://github.com/ElPatatin/Clift_cpeset-c">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=ElPatatin&repo=Clift_cpeset-c&show_owner=true&theme=react" />
+</a>&ensp;
+</p>
+
 ## Github stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElPatatin&layout=compact&theme=dark&hide_border=true)
