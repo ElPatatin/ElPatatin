@@ -6,7 +6,8 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Index</h2></summary>
   <ol>
-    <li> <a href="#who-am-i">Who am I?</a> </li>
+    <li><a href="#who-am-i">Who am I?</a> </li>
+    <li><a href="i'm-a-student-at-42-barcelona---42-barcelona-twitter">What I do??</a> </li>
     <li><a href="#my-42cursus-progress">My 42cursus progress</a></li>
     <li><a href="#github-stats">Github stats</a></li>
     <li><a href="#currently-working-on">Working on</a></li>
@@ -24,7 +25,7 @@
 * Music entusiast, basic degree on music; Forner percussionist.
 * High level on english language. Wanting to start german and japanese.
 
-## ▪️ I'm a student at [42 Barcelona](https://www.42barcelona.com/es/) - [42 Barcelona Twitter](https://twitter.com/42BarcelonaFTef) 👨🏻‍💻📚 
+## I'm a student at [42 Barcelona](https://www.42barcelona.com/es/) - [42 Barcelona Twitter](https://twitter.com/42BarcelonaFTef)
 
 [![cpeset-c's 42 stats](https://badge42.vercel.app/api/v2/cl5jfm7f4019309l3bu9a6pd8/stats?cursusId=21&coalitionId=204)](https://github.com/JaeSeoKim/badge42)
 
