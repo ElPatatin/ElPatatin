@@ -62,6 +62,6 @@
 * Portofolio: (TO DO) https://elpatatin.github.io
 * Music list: https://www.youtube.com/playlist?list=PLF10LhY9ID0ZmCBZEQVUQqthVsaBGUEzl
 
-<a href="#hello-everyone">To the top</a>
+<a href="#hello-everyone!-👋">To the top</a>
 ## Fin
 
