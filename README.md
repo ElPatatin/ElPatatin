@@ -1,6 +1,6 @@
 ### Hello everyone! 👋
 
-<h1 align="center"> Hi, I’m Cristóbal Peset Cruella 🙋🏻‍♂️ </h1>
+<h1 align="center"> I’m Cristóbal Peset Cruella 🙋🏻‍♂️ </h1>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -18,7 +18,11 @@
 
 ## Who am I?
 
-Descriptionn here
+* 22 year old boy looking for my goal.
+* Actively studing and coding at 42 Barcelona.
+* Former profesional coach annd analist for Overwatrch 1.
+* Music entusiast, basic degree on music; Forner percussionist.
+* High level on english language. Wanting to start german and japanese.
 
 ## ▪️ I'm a student at [42 Barcelona](https://www.42barcelona.com/es/) - [42 Barcelona Twitter](https://twitter.com/42BarcelonaFTef) 👨🏻‍💻📚 
 
@@ -50,13 +54,11 @@ Descriptionn here
 
 ## Contact me
 
-◦ Email: cpeset-c@student.42barcelona.com
-
-◦ Linkedin: https://www.linkedin.com/in/cristope/
-
-◦ Twitter: https://twitter.com/cristopepatatin
-
-◦ Portofolio: (TO DO) https://elpatatin.github.io
+* Email: cpeset-c@student.42barcelona.com
+* Linkedin: https://www.linkedin.com/in/cristope/
+* Twitter: https://twitter.com/cristopepatatin
+* Portofolio: (TO DO) https://elpatatin.github.io
+* Music list: https://www.youtube.com/playlist?list=PLF10LhY9ID0ZmCBZEQVUQqthVsaBGUEzl
 
 ## Fin
 
