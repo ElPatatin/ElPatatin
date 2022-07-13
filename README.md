@@ -9,7 +9,7 @@
     <li> <a href="#who-am-i">Who am I?</a> </li>
     <li><a href="#see-my-422cursus-progress">See my 42cursus progress</a></li>
     <li><a href="#github-stats">Github stats</a></li>
-    <li><a href="#tech-stats">Tech Stack</a></li>
+    <li><a href="#tech-stack">Tech Stack</a></li>
     <li><a href="#contact-me">Contact me 📥</a></li>
   </ol>
 </details>
@@ -22,7 +22,7 @@ Descriptionn here
 
 [![cpeset-c's 42 stats](https://badge42.vercel.app/api/v2/cl5jfm7f4019309l3bu9a6pd8/stats?cursusId=21&coalitionId=204)](https://github.com/JaeSeoKim/badge42)
 
-## See my 42cursus progress ↙️ 
+## See my 42cursus progress
 
 ◦ [42cursus progress](https://github.com/ElPatatin/42-Cursus_Public)
 
@@ -38,7 +38,7 @@ Descriptionn here
 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
 
-## Contact me 📥
+## Contact me
 
 ◦ Email: cpeset-c@student.42barcelona.com
 
