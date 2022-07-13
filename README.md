@@ -19,7 +19,7 @@
 
 ## Who am I?
 
-* 22 year old boy looking for my goal.
+* 23 year old boy looking for my goal.
 * Actively studing and coding at 42 Barcelona.
 * Former profesional coach annd analist for Overwatrch 1.
 * Music entusiast, basic degree on music; Forner percussionist.
