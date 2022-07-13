@@ -13,7 +13,7 @@
     <li><a href="#currently-working-on">Working on</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
     <li><a href="#contact-me">Contact me 📥</a></li>
-    <li><a href="#fin-🥔">End of document</a></li>
+    <li><a href="#fin">End of document</a></li>
   </ol>
 </details>
 
@@ -65,4 +65,5 @@
 
 <h3><a href="#hello-everyone">To the top</a></h3>
 
-## Fin 🥔
+## Fin
+🥔
