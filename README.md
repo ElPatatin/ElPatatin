@@ -9,6 +9,7 @@
     <li> <a href="#who-am-i">Who am I?</a> </li>
     <li><a href="#my-42cursus-progress">My 42cursus progress</a></li>
     <li><a href="#github-stats">Github stats</a></li>
+    <li><a href="#currently-working-on">Working on</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
     <li><a href="#contact-me">Contact me 📥</a></li>
     <li><a href="#fin">End of document</a></li>
@@ -29,7 +30,7 @@ Descriptionn here
 
 ◦ [42Piscine](https://github.com/ElPatatin/42_Piscine)
 
-## Working on
+## Currently working on
 
 <p align="left">
 <a href="https://github.com/ElPatatin/Clift_cpeset-c">
