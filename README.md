@@ -9,6 +9,7 @@
 ## ▪️ See my 42cursus progress ↙️ 
 
 ◦ [42cursus progress](https://github.com/ElPatatin/42-Cursus_Public)
+
 ◦ [42Piscine](https://github.com/ElPatatin/42_Piscine)
 
 ## ▪️ Github stats
