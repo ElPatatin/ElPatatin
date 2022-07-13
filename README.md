@@ -7,7 +7,7 @@
   <summary><h2 style="display: inline-block">Index</h2></summary>
   <ol>
     <li> <a href="#who-am-i">Who am I?</a> </li>
-    <li><a href="#see-my-42cursus-progress">My 42cursus progress</a></li>
+    <li><a href="#my-42cursus-progress">My 42cursus progress</a></li>
     <li><a href="#github-stats">Github stats</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
     <li><a href="#contact-me">Contact me 📥</a></li>
