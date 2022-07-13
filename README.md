@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I’m Cristóbal Peset Cruella 🙋🏻‍♂️ </h1>
 
-## ▪️ I'm a student at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
+## ▪️ I'm a student at [42 Barcelona](https://www.42barcelona.com/es/) - [42 Barcelona Twitter](https://twitter.com/42BarcelonaFTef) 👨🏻‍💻📚 
 
 [![cpeset-c's 42 stats](https://badge42.vercel.app/api/v2/cl5jfm7f4019309l3bu9a6pd8/stats?cursusId=21&coalitionId=204)](https://github.com/JaeSeoKim/badge42)
 
@@ -27,3 +27,7 @@
 ◦ Email: cpeset-cn@student.42barcelona.com
 
 ◦ Linkedin: https://www.linkedin.com/in/cristope/
+
+◦ Twitter: https://twitter.com/cristopepatatin
+
+◦ Portofolio: (TO DO) https://elpatatin.github.io
