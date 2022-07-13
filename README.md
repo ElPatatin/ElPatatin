@@ -11,6 +11,7 @@
     <li><a href="#github-stats">Github stats</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
     <li><a href="#contact-me">Contact me 📥</a></li>
+    <li><a href="fin">Fin</a></li>
   </ol>
 </details>
 
@@ -47,3 +48,6 @@ Descriptionn here
 ◦ Twitter: https://twitter.com/cristopepatatin
 
 ◦ Portofolio: (TO DO) https://elpatatin.github.io
+
+
+## Fin
