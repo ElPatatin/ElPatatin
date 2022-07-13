@@ -7,7 +7,7 @@
   <summary><h2 style="display: inline-block">Index</h2></summary>
   <ol>
     <li><a href="#who-am-i">Who am I?</a> </li>
-    <li><a href="i'm-a-student-at-42-barcelona---42-barcelona-twitter">What I do??</a> </li>
+    <li><a href="i'm-a-student">What I do??</a> </li>
     <li><a href="#my-42cursus-progress">My 42cursus progress</a></li>
     <li><a href="#github-stats">Github stats</a></li>
     <li><a href="#currently-working-on">Working on</a></li>
