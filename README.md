@@ -7,7 +7,7 @@
   <summary><h2 style="display: inline-block">Index</h2></summary>
   <ol>
     <li> <a href="#who-am-i">Who am I?</a> </li>
-    <li><a href="#see-my-422cursus-progress">See my 42cursus progress</a></li>
+    <li><a href="#see-my-42cursus-progress">My 42cursus progress</a></li>
     <li><a href="#github-stats">Github stats</a></li>
     <li><a href="#tech-stack">Tech Stack</a></li>
     <li><a href="#contact-me">Contact me 📥</a></li>
@@ -22,7 +22,7 @@ Descriptionn here
 
 [![cpeset-c's 42 stats](https://badge42.vercel.app/api/v2/cl5jfm7f4019309l3bu9a6pd8/stats?cursusId=21&coalitionId=204)](https://github.com/JaeSeoKim/badge42)
 
-## See my 42cursus progress
+## My 42cursus progress
 
 ◦ [42cursus progress](https://github.com/ElPatatin/42-Cursus_Public)
 
