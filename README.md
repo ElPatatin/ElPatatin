@@ -1,4 +1,4 @@
-### Hello everyone! ![Profile Views](https://komarev.com/ghpvc/?username=ElPatatin)
+### Hello everyone! 
 
 <h1 align="center"> I’m Cristóbal Peset Cruella 🙋🏻‍♂️ </h1>
 
@@ -45,6 +45,8 @@
 </p>
 
 ## Github stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=ElPatatin)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElPatatin&layout=compact&theme=dark&hide_border=true)
 
