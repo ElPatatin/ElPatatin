@@ -1,4 +1,4 @@
-### Hello everyone! 👋
+## Hello everyone!
 
 <h1 align="center"> I’m Cristóbal Peset Cruella 🙋🏻‍♂️ </h1>
 
@@ -63,7 +63,7 @@
 * Music list: https://www.youtube.com/playlist?list=PLF10LhY9ID0ZmCBZEQVUQqthVsaBGUEzl
 
 
-<h3><a href="##hello-everyone">To the top</a></h3>
+<h3><a href="#hello-everyone">To the top</a></h3>
 
 ## Fin
 
