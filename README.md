@@ -40,7 +40,7 @@
 
 <p align="left">
 <a href="https://github.com/ElPatatin/Clift_cpeset-c">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=ElPatatin&repo=Clift_cpeset-c&show_owner=true&theme=react" />
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=ElPatatin&repo=Clift&show_owner=true&theme=react" />
 </a>&ensp;
 </p>
 
