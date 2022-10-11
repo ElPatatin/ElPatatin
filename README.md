@@ -7,6 +7,15 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
 </div>
 
+
+## Contact me
+
+* Email:      cpeset-c@student.42barcelona.com
+* Linkedin:   https://www.linkedin.com/in/cristope/
+* Twitter:    https://twitter.com/cristopepatatin
+* Portofolio: (TO DO) https://elpatatin.github.io
+* Music list: https://www.youtube.com/playlist?list=PLF10LhY9ID0ZmCBZEQVUQqthVsaBGUEzl
+
 ## At this moment
 ### I'm a student at [42 Barcelona](https://www.42barcelona.com/es/) - [42 Barcelona Twitter](https://twitter.com/42BarcelonaFTef) 👨🏻‍💻📚
 
@@ -25,13 +34,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElPatatin&layout=compact&theme=dark&hide_border=true)
 
 ![ElPatatin's github stats](https://github-readme-stats.vercel.app/api?username=ElPatatin&show_icons=true&hide_border=true&theme=dark)
-
-## Contact me
-
-* Email:      cpeset-c@student.42barcelona.com
-* Linkedin:   https://www.linkedin.com/in/cristope/
-* Twitter:    https://twitter.com/cristopepatatin
-* Portofolio: (TO DO) https://elpatatin.github.io
-* Music list: https://www.youtube.com/playlist?list=PLF10LhY9ID0ZmCBZEQVUQqthVsaBGUEzl
 
 ## Fin 🥔
