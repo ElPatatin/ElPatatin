@@ -3,6 +3,7 @@
 <div align="center">
 <h1 align="center">Hi, <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">I’m Cristóbal Peset Cruella</h1>
 <h4 align="center">Network and Systems Technician. Learner at 42 Barcelona.</h4>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
 <img src="https://metrics.lecoq.io/ElPatatin" alt="Github Metrics">
 </div>
 
@@ -17,14 +18,6 @@
 
 ◦ [42Piscine](https://github.com/ElPatatin/42_Piscine)
 
-## Currently working on
-
-<p align="left">
-<a href="https://github.com/ElPatatin/Clift_cpeset-c">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=ElPatatin&repo=Clift&show_owner=true&theme=react" />
-</a>&ensp;
-</p>
-
 ## Github stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ElPatatin)
@@ -32,10 +25,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElPatatin&layout=compact&theme=dark&hide_border=true)
 
 ![ElPatatin's github stats](https://github-readme-stats.vercel.app/api?username=ElPatatin&show_icons=true&hide_border=true&theme=dark)
-
-## Tech Stack
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
 
 ## Contact me
 
