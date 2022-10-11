@@ -1,6 +1,10 @@
 ### Hello everyone! 
 
-<h1 align="center"> I’m Cristóbal Peset Cruella 🙋🏻‍♂️ </h1>
+<div align="center">
+<h1 align="center">Hi, <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">I’m Cristóbal Peset Cruella</h1>
+<h4 align="center">Network and Systems Technician. Learner at 42 Barcelona.</h4>
+<img src="https://metrics.lecoq.io/ElPatatin" alt="Github Metrics">
+</div>
 
 ## At this moment
 ### I'm a student at [42 Barcelona](https://www.42barcelona.com/es/) - [42 Barcelona Twitter](https://twitter.com/42BarcelonaFTef) 👨🏻‍💻📚
