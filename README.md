@@ -2,29 +2,6 @@
 
 <h1 align="center"> I’m Cristóbal Peset Cruella 🙋🏻‍♂️ </h1>
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Index</h2></summary>
-  <ol>
-    <li><a href="#who-am-i">Who am I?</a> </li>
-    <li><a href="#at-this-moment">At this moment</a> </li>
-    <li><a href="#my-42cursus-progress">My 42cursus progress</a></li>
-    <li><a href="#github-stats">Github stats</a></li>
-    <li><a href="#currently-working-on">Working on</a></li>
-    <li><a href="#tech-stack">Tech Stack</a></li>
-    <li><a href="#contact-me">Contact me 📥</a></li>
-    <li><a href="#fin">End of document</a></li>
-  </ol>
-</details>
-
-## Who am I?
-
-* 23 year old boy looking for my goal.
-* Actively studing and coding at 42 Barcelona.
-* Former profesional coach annd analist for Overwatrch 1.
-* Music entusiast, basic degree on music; Forner percussionist.
-* High level on english language. Wanting to start german and japanese.
-
 ## At this moment
 ### I'm a student at [42 Barcelona](https://www.42barcelona.com/es/) - [42 Barcelona Twitter](https://twitter.com/42BarcelonaFTef) 👨🏻‍💻📚
 
