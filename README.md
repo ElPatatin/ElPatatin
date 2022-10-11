@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1 align="center">Hi, <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">I’m Cristóbal Peset Cruella</h1>
-<h4 align="center">Network and Systems Technician. Learner at 42 Barcelona.</h4><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /><h4 align="center">Network and Systems Technician. Learner at 42 Barcelona.</h4>
 <img src="https://metrics.lecoq.io/ElPatatin" alt="Github Metrics">
 </div>
 
@@ -27,13 +27,10 @@
 
 ## Contact me
 
-* Email: cpeset-c@student.42barcelona.com
-* Linkedin: https://www.linkedin.com/in/cristope/
-* Twitter: https://twitter.com/cristopepatatin
+* Email:      cpeset-c@student.42barcelona.com
+* Linkedin:   https://www.linkedin.com/in/cristope/
+* Twitter:    https://twitter.com/cristopepatatin
 * Portofolio: (TO DO) https://elpatatin.github.io
 * Music list: https://www.youtube.com/playlist?list=PLF10LhY9ID0ZmCBZEQVUQqthVsaBGUEzl
-
-
-<h3><a href="#hello-everyone">To the top</a></h3>
 
 ## Fin 🥔
