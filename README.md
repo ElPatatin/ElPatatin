@@ -7,4 +7,10 @@
 <h4 align="center">Network and Systems Technician.<br>Software Developer.<br>Learner at 42 Barcelona.<br>Building my horizon!</h4>
 </div>
 
+
+
+
+
+
+
 ## Fin 🥔
