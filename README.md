@@ -9,10 +9,12 @@
 <h4 align="center">Software Developer.<br>Network and Systems Technician.<br>Learner at 42 Barcelona.<br>Building my horizon!</h4>
 </div>
 
-
+## TODO
 <br><br><br><br><br><br><br>
 
 
-
+## Contact
+- **Email:** [cristobalpes1@gmail.com](mailto:cristobalpes1@gmail.com)
+- **LinkedIn:** [Cristóbal Peset Cruella](https://www.linkedin.com/in/cristope/)
 
 ## Fin 🥔
