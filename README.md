@@ -1,4 +1,7 @@
-![sea](https://github.com/ElPatatin/ElPatatin/assets/43825378/f4a35d29-e52b-4e74-8237-05296f12345b)
+<p align="center">
+  <img src="https://github.com/ElPatatin/ElPatatin/assets/43825378/f4a35d29-e52b-4e74-8237-05296f12345b" alt="sea" width="300" height="200">
+</p>
+
 ### Hello everyone! 
 
 <div align="center">
