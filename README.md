@@ -1,4 +1,5 @@
 ### Hello everyone! 
+![sea](https://github.com/ElPatatin/ElPatatin/assets/43825378/f4a35d29-e52b-4e74-8237-05296f12345b)
 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5mMW5naWdpbnRtZXFlZTk3dnc1amlmNTliZzRxejhzbjJlejY2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"
