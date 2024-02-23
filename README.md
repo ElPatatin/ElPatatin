@@ -7,14 +7,14 @@
      alt="cat developing" align="right" width="230" height="170">
 <h1 align="center">I’m Cristóbal Peset Cruella <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 <h4 align="center">Software Developer.<br>Network and Systems Technician.<br>Learner at 42 Barcelona.<br>Building my horizon!</h4>
-</div>
+</div><br>
 
 ## TODO
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 ## Contact
-- **Email:** [cristobalpes1@gmail.com](mailto:cristobalpes1@gmail.com)
-- **LinkedIn:** [Cristóbal Peset Cruella](https://www.linkedin.com/in/cristope/)
+- **Email:**     [cristobalpes1@gmail.com](mailto:cristobalpes1@gmail.com)
+- **LinkedIn:**     [Cristóbal Peset Cruella](https://www.linkedin.com/in/cristope/)
 
 ## Fin 🥔
