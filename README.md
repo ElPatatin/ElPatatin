@@ -5,7 +5,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5mMW5naWdpbnRtZXFlZTk3dnc1amlmNTliZzRxejhzbjJlejY2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"
      alt="cat developing" align="right" width="230" height="170">
-### <div align="center">I’m Cristóbal Peset Cruella <img width="35" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"></div>
+<h3 align="center">I’m Cristóbal Peset Cruella <img width="35" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"></h3>
 <h4 align="center">Software Developer.<br>Network and Systems Technician.<br>Learner at 42 Barcelona.<br>Building my horizon!</h4>
 </div><br>
 
