@@ -14,7 +14,6 @@
 
 
 ## Contact
-- **Email:**     [cristobalpes1@gmail.com](mailto:cristobalpes1@gmail.com)
 - **LinkedIn:**     [Cristóbal Peset Cruella](https://www.linkedin.com/in/cristope/)
 
 ## Fin 🥔
